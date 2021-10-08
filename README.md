@@ -6,8 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pPcKBFZmfV/)
 
 
-➜ Novo usuário na plataforma Github. 
-➜ Discord focado para estudos, compartilhamento de dados, códigos, etc.
+➜ Novo usuário na plataforma Github. <br>
+➜ Discord focado para estudos, compartilhamento de dados, códigos, etc. <br>
 
 
 ![Eduardo Inagaki GitHub stats](https://github-readme-stats.vercel.app/api?username=edukz&show_icons=true&theme=dracula)
