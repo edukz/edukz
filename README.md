@@ -19,4 +19,4 @@
 </div><br/>
 
 
-### Formado em arquitetura e urbanismo, porém sempre fui apaixoado por tecnologias. Em 2021 resolvi trocar de área e iniciei meus estudos na área de programação.
+### Formado em arquitetura e urbanismo, porém sempre fui apaixonado por tecnologias. Em 2021 resolvi trocar de área e iniciei meus estudos na área de programação. Em busca de colocar na prática o conhecimento adquirido.
