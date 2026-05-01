@@ -5,5 +5,4 @@
 
 ➜ Desenvolvedor solo, C++, Pythom TypeScript, entre outras.
 
-![Eduardo Inagaki GitHub stats](https://github-readme-stats.vercel.app/api?username=edukz&show_icons=true&theme=dracula)
 
